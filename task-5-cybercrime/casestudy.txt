@@ -1,1 +1,9 @@
+Case Study: UPI / Online Payment Fraud
 
+UPI payment fraud is one of the fastest-growing cybercrimes in India, especially among students who frequently use digital payment apps. In this type of fraud, scammers trick victims into making an unintended payment by using fake QR codes, phishing links, or fraudulent “payment requests.”
+
+A common method begins when the victim posts something for sale online, such as a book, cycle, or gadget. A scammer pretends to be a buyer and offers to pay immediately. They then send a QR code or a UPI “collect request,” claiming it is required for transferring money to the victim. Many students mistakenly believe scanning a QR code will make them receive money, but in reality, scanning it always results in sending money.
+
+In a realistic scenario, a student selling a used calculator received a QR code from a supposed buyer who said it was for “advance payment.” When the student scanned it, ₹2,499 was deducted instantly. The scammer immediately blocked all communication, leaving the student helpless.
+
+The consequences included financial loss, emotional stress, and fear of being targeted again. Students who delay reporting often lose the chance of freezing the transaction. This case highlights how easily young people can become victims if they do not understand how UPI transactions work.
